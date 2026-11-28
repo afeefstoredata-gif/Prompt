@@ -1,0 +1,17 @@
+Vibe Coded Crucial Documents:
+
+1- PRD - in this docs explain what we are building who it's for & why your app exist 
+2- TRD - Techinical Requirement Document - Tack stck (frontend + backend + DB + Hosting)
+3- APP Flow Document - Your App map, user navigation step by step screen transitions & complete details 
+exacitly what happen when user click on a button
+4- UI/UX Document - Color palates, Typographic, layouts expectation & links to design insperations
+5- Backend Schema Document - clean data storage & prevent messy unstructured data models
+6- API Integration & Specifications Document- List all External third party services that give you
+use in your app
+7- Security & Access Document- it define user roles & permissions and also set error boundaries & 
+data privacy rules & protocal to handle failures
+8- Ai Guard Rails & Rules file Document - You Instrect ai agents on a project specific constrains prefered
+patterns & forbidden shortcuts
+9- Feature Ticket List Document - You break PRD into smallest task & Checklist items
+10- Deployment & Testing Document - you outline local testing step staging protocols & 
+production launch checklist.
